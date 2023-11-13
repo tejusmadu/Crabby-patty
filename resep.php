@@ -8,4 +8,6 @@ echo "3. kentang";
 echo "4. daging";
 echo "5. mayones";
 echo "6. tomat";
+echo "7. keju";
+
 
